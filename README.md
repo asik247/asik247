@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asikur Rahman</h1>
-<h3 align="center">Web Developer.</h3>
+<h3 align="center">full strack web developer.</h3>
 
-- 🔭 I’m currently working on **Web project**
+- 🔭 I’m currently working on **Remote Job**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **mdasikur5893@gmail.com**
 
