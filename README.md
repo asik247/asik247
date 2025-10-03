@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AsikurRahman/assets/main/ff7a2a02-465f-4ace-9581-8dd21ce191db.png" width="100%" />
+NEXT LEVEL ENGINEERING
 </p>
 
 # Hi I'm Asik
@@ -32,11 +32,4 @@ I specialize in **React, HTML, CSS, and JavaScript**, always focused on deliveri
 ## 📞 Contact
 <p align="center">
   Phone: 01919195893 | Email: mdasikur5893@gmail.com
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsikurRahman&show_icons=true&theme=tokyonight)
 </p>
