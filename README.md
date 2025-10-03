@@ -1,25 +1,46 @@
 <p align="center">
-  <img src="https://i.ibb.co/q1mxKjH/frontend-bg.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="100%" />
 </p>
 
-# Hi 👋, I'm Asikur Rahman
-### 🚀 Frontend & Aspiring Full Stack Web Developer
+# Hi 👋, I'm Asik
+### 🚀 Frontend Developer
 
 - 🔭 I’m currently working on **Remote Projects**
-- 🌱 Learning **Software Engineering & MERN Stack**
+- 🌱 Learning **Frontend Development & MERN Stack**
 - 👨‍💻 Projects [here](#)
 - 📫 Reach me at **mdasikur5893@gmail.com**
 
 ---
 
+## 🛠 Tech Stack
 <p align="center">
-  [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/)
-  [![GitHub](https://img.icons8.com/material-outlined/48/github.png)](https://github.com/)
-  [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:mdasikur5893@gmail.com)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+</p>
+
+---
+
+## 📞 Contact Me
+<p align="center">
+  [![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://linkedin.com/in/)
+  [![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg)](https://github.com/)
+  [![Gmail](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:mdasikur5893@gmail.com)
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsikurRahman&layout=compact&theme=tokyonight)
+  <br/>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsikurRahman&show_icons=true&theme=tokyonight)
 </p>
 
 ---
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsikurRahman&layout=compact&theme=tokyonight)  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsikurRahman&show_icons=true&theme=tokyonigh_)
+  ![Visitors](https://komarev.com/ghpvc/?username=AsikurRahman&color=brightgreen)
+</p>
