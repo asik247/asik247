@@ -69,23 +69,6 @@ Always writing clean, maintainable code and delivering smooth user experiences.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asik247&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asik247&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=asik247&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 [![Asik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asik247&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
