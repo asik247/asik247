@@ -69,11 +69,18 @@ Always writing clean, maintainable code and delivering smooth user experiences.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asik247&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asik247&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asik247&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=asik247&theme=tokyonight&hide_border=true" />
 
 </div>
 
