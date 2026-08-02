@@ -1,0 +1,98 @@
+<svg width="500" height="290" viewBox="0 0 500 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="react" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#2E9FCE"/>
+    </linearGradient>
+    <linearGradient id="js" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F7DF1E"/>
+      <stop offset="100%" stop-color="#D8B900"/>
+    </linearGradient>
+    <linearGradient id="tw" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8CC84B"/>
+      <stop offset="100%" stop-color="#5A9216"/>
+    </linearGradient>
+    <linearGradient id="mongo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4DB33D"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="498" height="288" rx="16" fill="url(#bg)" stroke="#414868" stroke-width="1.5"/>
+
+  <text x="28" y="42" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="700" fill="url(#titleGrad)">
+    ⚡ Top Skills &amp; Proficiency
+  </text>
+  <line x1="28" y1="56" x2="472" y2="56" stroke="#2a2e42" stroke-width="1.5"/>
+
+  <!-- React.js -->
+  <text x="28" y="86" font-family="Fira Code, monospace" font-size="14" fill="#c0caf5">React.js</text>
+  <rect x="160" y="74" width="312" height="14" rx="7" fill="#232436"/>
+  <rect x="160" y="74" height="14" rx="7" fill="url(#react)">
+    <animate attributeName="width" from="0" to="265" dur="1.2s" fill="freeze" begin="0.1s"/>
+  </rect>
+  <text x="480" y="86" font-family="Fira Code, monospace" font-size="12" fill="#7aa2f7" text-anchor="end">
+    85%
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze" begin="1s"/>
+  </text>
+
+  <!-- JavaScript -->
+  <text x="28" y="120" font-family="Fira Code, monospace" font-size="14" fill="#c0caf5">JavaScript</text>
+  <rect x="160" y="108" width="312" height="14" rx="7" fill="#232436"/>
+  <rect x="160" y="108" height="14" rx="7" fill="url(#js)">
+    <animate attributeName="width" from="0" to="265" dur="1.2s" fill="freeze" begin="0.3s"/>
+  </rect>
+  <text x="480" y="120" font-family="Fira Code, monospace" font-size="12" fill="#e0c341" text-anchor="end">
+    85%
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze" begin="1.2s"/>
+  </text>
+
+  <!-- Tailwind CSS -->
+  <text x="28" y="154" font-family="Fira Code, monospace" font-size="14" fill="#c0caf5">Tailwind CSS</text>
+  <rect x="160" y="142" width="312" height="14" rx="7" fill="#232436"/>
+  <rect x="160" y="142" height="14" rx="7" fill="url(#tw)">
+    <animate attributeName="width" from="0" to="250" dur="1.2s" fill="freeze" begin="0.5s"/>
+  </rect>
+  <text x="480" y="154" font-family="Fira Code, monospace" font-size="12" fill="#38BDF8" text-anchor="end">
+    80%
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze" begin="1.4s"/>
+  </text>
+
+  <!-- Node.js -->
+  <text x="28" y="188" font-family="Fira Code, monospace" font-size="14" fill="#c0caf5">Node.js / Express</text>
+  <rect x="160" y="176" width="312" height="14" rx="7" fill="#232436"/>
+  <rect x="160" y="176" height="14" rx="7" fill="url(#node)">
+    <animate attributeName="width" from="0" to="234" dur="1.2s" fill="freeze" begin="0.7s"/>
+  </rect>
+  <text x="480" y="188" font-family="Fira Code, monospace" font-size="12" fill="#8CC84B" text-anchor="end">
+    75%
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze" begin="1.6s"/>
+  </text>
+
+  <!-- MongoDB -->
+  <text x="28" y="222" font-family="Fira Code, monospace" font-size="14" fill="#c0caf5">MongoDB</text>
+  <rect x="160" y="210" width="312" height="14" rx="7" fill="#232436"/>
+  <rect x="160" y="210" height="14" rx="7" fill="url(#mongo)">
+    <animate attributeName="width" from="0" to="218" dur="1.2s" fill="freeze" begin="0.9s"/>
+  </rect>
+  <text x="480" y="222" font-family="Fira Code, monospace" font-size="12" fill="#4DB33D" text-anchor="end">
+    70%
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze" begin="1.8s"/>
+  </text>
+
+  <text x="28" y="260" font-family="Segoe UI, Verdana, sans-serif" font-size="11" fill="#565f89">
+    Continuously learning &amp; leveling up every day 🚀
+  </text>
+</svg>
