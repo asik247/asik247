@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=F5A623&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Md.+Asik+%F0%9F%91%8B;Full-Stack+MERN+Developer;React+%2B+Node.js+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Crafting+scalable+apps+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Currently+open+to+internships+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/asik5893/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -58,24 +58,27 @@ I build full-stack applications with **MongoDB, Express, React, and Node.js** â€
 <div align="center">
 
 **Frontend**
+
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
 
 <br/><br/>
 
 **Backend**
+
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 <br/><br/>
 
 **Auth & Tooling**
+
 <br/>
 <img src="https://skillicons.dev/icons?i=firebase,git,github,postman,vscode" />
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -90,23 +93,22 @@ I build full-stack applications with **MongoDB, Express, React, and Node.js** â€
 <div align="center">
 
 <img height="200em" src="./github-stats-card.png"/>
-<img height="200em" src="./top-tech-card.png"/>
+
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=asik247&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asik247&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
 
 [![Asik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asik247&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray%20line.gif" width="100%">
+<br/>
+<img src="./achievements.png" alt="Achievements" width="100%"/>
+<br/
 
 ## ðŸ“ž &nbsp;Let's Build Something Together
 
