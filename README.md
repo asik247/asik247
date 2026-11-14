@@ -88,27 +88,7 @@ I build full-stack applications with **MongoDB, Express, React, and Node.js** �
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray%20line.gif" width="100%">
 
-## 📊 &nbsp;GitHub Analytics
 
-<div align="center">
-
-<img height="200em" src="./github-stats-card.png"/>
-
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=asik247&theme=tokyonight&hide_border=true&border_radius=12" />
-
-
-
-
-[![Asik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asik247&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-<img src="./achievements.png" alt="Achievements" width="100%"/>
-<br/
 
 ## 📞 &nbsp;Let's Build Something Together
 
