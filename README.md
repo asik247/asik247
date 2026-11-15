@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./dark2.png" alt="Md. Asik — GitHub Cover" width="100%" />
+<img src="./myCoise.png" alt="Md. Asik — GitHub Cover" width="100%" />
 
 </div>
 
